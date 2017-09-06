@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
   int a = 1;
     int b= 12;
     int c= 0;
+    int k = 11;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
